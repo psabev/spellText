@@ -507,13 +507,12 @@ function spellLetter(letter)
 function checkIfExists(letter)
 /* Checks if the letter exists in JSON, returns empty string if does not exist */
 {
-	var res = spellLetter(letter);
-	if (typeof(SpellJSON[res]) == 'undefined') 
+	if (typeof(SpellJSON[letter]) == 'undefined') 
 	{
 		return "";
 	} else 
 	{
-		return res; 
+		return letter; 
 	}
 }
 
