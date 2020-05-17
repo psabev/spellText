@@ -15,3 +15,7 @@ The NATO phonetic alphabet was used and then extended with information from vari
 ## *AB1P7Q*
 will be spelled as:
 ## *Alfa Bravo One Papa Seven Quebec*
+
+# Demo
+
+Visit www.fastlanesoft.com/spellTool for an actual demo of the script.
